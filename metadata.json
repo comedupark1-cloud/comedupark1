@@ -1,0 +1,6 @@
+{
+  "name": "알고리즘 탐정단: 순차 vs 이진 탐색",
+  "description": "중학생을 위한 인터랙티브 탐색 알고리즘(순차 탐색과 이진 탐색) 체험 및 비교 학습 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
